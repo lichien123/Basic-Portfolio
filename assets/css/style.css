@@ -46,6 +46,11 @@ ul {
 	float: left;
 }
 
+.big-hr {
+	background-color: lightgrey;
+	border: 0px;
+}
+
 .clearfix::after {
 	content: "";
 	display: block;
@@ -149,7 +154,7 @@ li {
 
 section {
 	height: 400px;
-	width: 1400px;
+	width: 1418px;
 	margin: 30px;
 	background-color: #ffffff;
 	/* replace url with local when you figure out how */
